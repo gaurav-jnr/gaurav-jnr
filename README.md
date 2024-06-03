@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on [Amazon Clone](https://github.com/gaurav-jnr/AmazonClone.git)
 - 🌱 I’m currently learning **Advanced front-end frameworks like Next.js and Svelte, and enhancing my skills in data visualization tools such as D3.js and Power BI.**
-- 💬 Ask me about ** Python, SQL, Business Development strategies, Latest tech trends. 🚀**
+- 💬 Ask me about **Python, SQL, Business Development strategies, Latest tech trends. 🚀**
 - 📫 How to reach me **gaurav2gp3@gmail.com**
-- 📄 Know about my experiences **https://drive.google.com/drive/folders/1naiRAIpC0pzlcFqcW615lWNLZxKcldyU?usp=drive_link**
-- ⚡ Fun fact ** I'm always on the lookout for the next big thing in tech and innovation! 🚀**
+- 📄 Know about my experiences  [Resume](https://drive.google.com/drive/folders/1naiRAIpC0pzlcFqcW615lWNLZxKcldyU?usp=drive_link)
+- ⚡ Fun fact **I'm always on the lookout for the next big thing in tech and innovation! 🚀**
 
 <div> <a href="https://twitter.com/2oo3_gaurav_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/2oo3-gaurav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
